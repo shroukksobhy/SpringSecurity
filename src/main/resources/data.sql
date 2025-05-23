@@ -1,0 +1,10 @@
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
+INSERT INTO Employee (email, first_name, last_name) VALUES ('a@a.com', 'roka', 'sobhy');
