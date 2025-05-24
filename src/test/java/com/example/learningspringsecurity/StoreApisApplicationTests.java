@@ -1,4 +1,4 @@
-package com.example.store_apis;
+package com.example.learningspringsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
