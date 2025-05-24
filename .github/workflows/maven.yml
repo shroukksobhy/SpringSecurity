@@ -18,6 +18,11 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    permissions: # Add this section
+      contents: write # Grant write permission for contents
+      # You might also need 'pull-requests: write' if you have advanced PR-based security features.
+      # For dependency graph submission, 'contents: write' is usually sufficient.
+
 
     steps:
     - uses: actions/checkout@v4
